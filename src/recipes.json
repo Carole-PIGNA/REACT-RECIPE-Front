@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Tarte aux Pommes Classique",
+      "image": " https://github.com/Carole-PIGNA/Images/blob/main/tarte-aux-pommes.jpg?raw=true",
+      "resume": "Une pâte brisée garnie de fines tranches de pommes, de beurre, de sucre et de cannelle, cuite jusqu'à ce que les pommes soient dorées.",
+      "detail": "<p>Ingrédients:</p><ul><li>2 pommes</li><li>1 pâte brisée</li><li>50g de sucre</li><li>20g de beurre</li><li>Cannelle</li></ul><p>Préparation:</p><ol><li>Préchauffer le four à 180°C.</li><li>Étaler la pâte brisée dans un moule.</li><li>Disposer les tranches de pommes sur la pâte.</li><li>Parsemer de beurre et saupoudrer de sucre et de cannelle.</li><li>Cuire pendant 35-40 minutes jusqu'à ce que les pommes soient dorées.</li></ol>"
+    },
+    {
+      "title": "Choux à la crème",
+      "image": "https://github.com/Carole-PIGNA/Images/blob/main/choux-a-la-creme.jpg?raw=true",
+      "resume": "Des choux dorés et légers, fourrés de crème pâtissière à la vanille.",
+      "detail": "<p>Ingrédients:</p><ul><li>125ml d'eau</li><li>50g de beurre</li><li>75g de farine</li><li>2 œufs</li><li>Crème pâtissière</li></ul><p>Préparation:</p><ol><li>Préchauffer le four à 200°C.</li><li>Porter l'eau et le beurre à ébullition.</li><li>Ajouter la farine et remuer vigoureusement.</li><li>Ajouter les œufs un à un.</li><li>Former des petits choux et les cuire 20 minutes.</li><li>Fourrer de crème pâtissière.</li></ol>"
+    },
+    {
+      "title": "Brownies au Chocolat",
+      "image": "https://github.com/Carole-PIGNA/Images/blob/main/brownies.jpg?raw=true",
+      "resume": "Un mélange de chocolat noir fondu, de beurre, de sucre, d'œufs, de farine et de noix, cuit jusqu'à une texture fondante et moelleuse.",
+      "detail": "<p>Ingrédients:</p><ul><li>200g de chocolat noir</li><li>100g de beurre</li><li>150g de sucre</li><li>3 œufs</li><li>75g de farine</li><li>Noix</li></ul><p>Préparation:</p><ol><li>Préchauffer le four à 180°C.</li><li>Faire fondre le chocolat et le beurre.</li><li>Ajouter le sucre, les œufs et la farine.</li><li>Incorporer les noix.</li><li>Verser dans un moule et cuire 25-30 minutes.</li></ol>"
+    },
+    {
+      "title": "Madeleines",
+      "image": "https://github.com/Carole-PIGNA/Images/blob/main/madeleines.jpg?raw=true",
+      "resume": "Petits gâteaux en forme de coquillage, parfumés au zeste de citron ou d'orange, et cuits jusqu'à être dorés et légèrement bombés.",
+      "detail": "<p>Ingrédients:</p><ul><li>3 œufs</li><li>150g de sucre</li><li>200g de farine</li><li>100g de beurre</li><li>Zeste de citron</li></ul><p>Préparation:</p><ol><li>Préchauffer le four à 200°C.</li><li>Fouetter les œufs et le sucre.</li><li>Ajouter la farine et le beurre fondu.</li><li>Incorporer le zeste de citron.</li><li>Remplir les moules et cuire 10-12 minutes.</li></ol>"
+    }
+  ]
+  
